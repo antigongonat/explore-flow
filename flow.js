@@ -1,3 +1,5 @@
+#!/bin/node
+
 /**
  * Flow plugin.
  */
